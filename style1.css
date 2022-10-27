@@ -1,0 +1,93 @@
+.topbar{
+    background-color: black;
+    height: 50px;
+    width: 650px;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    margin-top: 0%;
+    padding-left: 25px;
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.feed{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: -20px;
+}
+.left-box{
+    width: 150px;
+    height: 250px;
+    border: 2px solid black;
+}
+.image{
+    height: 75px;
+    width: 75px;
+    padding: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.avatar{
+    display: block;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    color: cadetblue;
+}
+.my-name{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+}
+.two-columns{
+    display: flex;
+    justify-content: center;
+}
+.name-1, .name-2, .name-3{
+    border: 2px solid black;
+    margin-left: 20px;
+    padding: 10px 20px 10px;
+    margin-bottom: 10px;
+}
+.firstline1, .firstline2, .firstline3{
+    display: flex;
+    justify-content: space-between;
+} 
+.person1, .person2, .person3{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+.likes1, .likes2, .likes3{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+}
+.likes1{
+    margin-left: 120px;
+}
+.likes2{
+    margin-left: 100px;
+}
+.likes3{
+    margin-left: 140px;
+}
+.button1, .button2, .button3{
+    height: 35px;
+    width: 75px;
+    background-color: cadetblue;
+    margin-top: 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+}
+.paragraph1, .paragraph2, .paragraph3, .paragraph4{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+}
+a{
+    color: cadetblue;
+}
+.paragraph4{
+    margin-top: -10px;
+}
